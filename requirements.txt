@@ -3,3 +3,5 @@ pymcel
 nbformat
 rebound
 plotly
+matplotlib
+pyserial
